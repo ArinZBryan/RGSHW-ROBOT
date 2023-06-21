@@ -1,0 +1,11 @@
+# Notes
+- [ ] Ask Nav if resistors in series is good practice
+- [ ] Ask Nav to check circuit diagram
+- [ ] Ask Nav about LM317T regulator design (If can't get 7805s)
+- [ ] Ask Nav for supplies
+	- Motor Driver
+	- Barrel Plug
+	- 7805s
+	- 1.7K resistor
+	- Switch
+	- Breadboard? (Might be pushing it on this one)

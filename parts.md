@@ -1,17 +1,19 @@
 # Parts List
 - ESP32-CAM
 	***Cannot use current ESP32-CAM unit, must buy new one. Use NodeMCU in meantime***
-- ULN2004 Darlington array x2 [Link](https://uk.rs-online.com/web/p/darlington-pairs/0652825)
-- Stepper Motors x2 [Link](https://uk.rs-online.com/web/p/stepper-motors/1805279)
-- 12vDC Power Supply (White Ninja / Ninja Star PSU)
+- ULN2004 Darlington array x2 [Link](https://uk.rs-online.com/web/p/darlington-pairs/0652825) ***Ordered***
+- Stepper Motors x2 [Link](https://uk.rs-online.com/web/p/stepper-motors/1805279) ***Ordered***
+- 12vDC Power Supply (White Ninja / Ninja Star PSU) ***Have***
 - Motor Driver - ***Nav is supplying***
 - 5vDC Power Supply (Homemade)
+	- 12vDC Barrel Plug ***Ask Nav / Measure and order***
 	- 7805 Regulator ***Nav is supplying***
 	- Capacitors
 		- 100uf
 		- 100nf
 	- Resistors
 		- 330ohm
+		- 1.7kohm
 	- Perfboard
 		- Have some spare
 
