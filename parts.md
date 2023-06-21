@@ -1,9 +1,9 @@
 # Parts List
-- ESP32-CAM
+- ESP32-CAM [Link](https://www.amazon.co.uk/gp/product/B093GSCBWJ/ref=ewc_pr_img_1?smid=A3BVHM4IYROMA9&psc=1)
 	***Cannot use current ESP32-CAM unit, must buy new one. Use NodeMCU in meantime***
 - ULN2004 Darlington array x2 [Link](https://uk.rs-online.com/web/p/darlington-pairs/0652825) ***Ordered***
 - Stepper Motors x2 [Link](https://uk.rs-online.com/web/p/stepper-motors/1805279) ***Ordered***
-- 12vDC Power Supply (White Ninja / Ninja Star PSU) ***Have***
+- 12vDC Power Supply [Link](https://www.amazon.co.uk/gp/product/B0927KBGCP/ref=ewc_pr_img_2?smid=A2C3XW1LFRZS1F&th=1)
 - Motor Driver - ***Nav is supplying***
 - 5vDC Power Supply (Homemade)
 	- 12vDC Barrel Plug ***Ask Nav / Measure and order***
@@ -27,7 +27,7 @@
 | Total (inc Shipping) | £74.70 | 
 
 > Shipping on orders over £50 from rs-online is free
-> Amazon Prime gives free shipping on ESP32-CAM
+> Amazon Prime gives free shipping on ESP32-CAM + 12vDC power supply
 
 
 # Kit List
