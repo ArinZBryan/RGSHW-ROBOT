@@ -1,6 +1,7 @@
 # Notes
 - [ ] Ask Nav if resistors in series is good practice
 - [ ] Ask Nav to check circuit diagram
+- [ ] Ask Nav about controlling 12v circuit with 5v + transistor
 - [ ] Ask Nav about LM317T regulator design (If can't get 7805s)
 - [ ] Ask Nav for supplies
 	- Motor Driver
